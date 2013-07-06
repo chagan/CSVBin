@@ -2,7 +2,7 @@
 
 """ 
 
-Taking a csv of points and converting it a shapefile,
+Takes a csv of points and converts it to a shapefile,
 running that through binify and coming out with a
 hexbinned shapefile of the original points.
 
